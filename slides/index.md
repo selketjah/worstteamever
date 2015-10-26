@@ -27,9 +27,8 @@
 ### What's in a name
 
 - Ownership effect (psychology)
-- status quo bias
-- The endowment effect
-- The ikea effect
+- The endowment effect (Behavioral economics)
+- The ikea effect (extension)
 
 ***
 
@@ -137,15 +136,14 @@ $ \Pr(A|B)=\frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A)+\Pr(B|\neg A)\Pr(\neg A)} $
 
 ***
 
-### The Reality of a Developer's Life 
+### Want to know more? 
 
-**When I show my boss that I've fixed a bug:**
+**Daniel Kahneman**
   
-![When I show my boss that I've fixed a bug](http://www.topito.com/wp-content/uploads/2013/01/code-07.gif)
+![Thinking fast and slow](images/Thinking,_Fast_and_Slow.jpg)
   
-**When your regular expression returns what you expect:**
+**Dan Ariely**
   
-![When your regular expression returns what you expect](http://www.topito.com/wp-content/uploads/2013/01/code-03.gif)
-  
-*from [The Reality of a Developer's Life - in GIFs, Of Course](http://server.dzone.com/articles/reality-developers-life-gifs)*
+![Predictably irrational](images/predictably-irrational.jpg)
+![Thinking fast and slow](images/the-honest-truth.jpg)
 
