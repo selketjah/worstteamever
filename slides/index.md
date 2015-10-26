@@ -51,6 +51,8 @@
 
 ---
 
+### The cost of free
+
 #### Owner
 * bigger crowds => bigger budget
 * wrong crowd => wrong feedback
