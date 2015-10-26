@@ -1,36 +1,35 @@
 - title : FsReveal
-- description : Introduction to FsReveal
-- author : Karlkim Suwanmongkol
+- description : The worst team ever
+- author : Gien Verschatse
 - theme : night
 - transition : default
 
 ***
 
-### What is FsReveal?
+### WTE (worst team EVER)
 
-- Generates [reveal.js](http://lab.hakim.se/reveal-js/#/) presentation from [markdown](http://daringfireball.net/projects/markdown/)
-- Utilizes [FSharp.Formatting](https://github.com/tpetricek/FSharp.Formatting) for markdown parsing
-- Get it from [http://fsprojects.github.io/FsReveal/](http://fsprojects.github.io/FsReveal/)
 
-![FsReveal](images/logo.png)
+![FsReveal](images/grizzly.jpg)
+![FsReveal](images/questionmarkman.jpg)
+![FsReveal](images/questionmarkwoman.jpg)
+![FsReveal](images/questionmarkman.jpg)
+![FsReveal](images/questionmarkman.jpg)
+
 
 ***
 
-### Reveal.js
+### Meet Owen Ship
 
-- A framework for easily creating beautiful presentations using HTML.
-
-
-> **Atwood's Law**: any application that can be written in JavaScript, will eventually be written in JavaScript.
+![FsReveal](images/grizzly-large.jpg)
 
 ***
 
-### FSharp.Formatting
+### What's in a name
 
-- F# tools for generating documentation (Markdown processor and F# code formatter).
-- It parses markdown and F# script file and generates HTML or PDF.
-- Code syntax highlighting support.
-- It also evaluates your F# code and produce tooltips.
+- Ownership effect (psychology)
+- status quo bias
+- The endowment effect
+- The ikea effect
 
 ***
 
